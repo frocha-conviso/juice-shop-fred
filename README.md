@@ -244,3 +244,9 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 2014-2026.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+
+
+
+## Conviso AST Scan Test
+
+This change is intentionally harmless and is being used to validate the Conviso AST Orchestrator integration.
