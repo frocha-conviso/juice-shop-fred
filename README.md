@@ -248,22 +248,11 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 
 
 
-## Conviso AST Test
-Testing Conviso AST Orchestrator integration.
-
-
-testando a pipeline via orchestrator
-testando
-testando
-testando
-
-## Conviso Pipeline Test
-
-Testing automatic Conviso AST pipeline execution.
-
+// Teste Conviso AST - alteração para disparar o scan// Teste Conviso AST - alteração para disparar o scan
 
 // Teste Conviso AST - alteração para disparar o scan
 
+// Teste Conviso AST - alteração para disparar o scan
 
 // Teste Conviso AST - alteração para disparar o scan
 
