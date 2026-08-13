@@ -261,14 +261,10 @@ testando
 
 Testing automatic Conviso AST pipeline execution.
 
-teste
-teste
-teste
-teste
+
+// Teste Conviso AST - alteração para disparar o scan
 
 
-fred
-fred
-fred
-C o n v i s o   A S T   p i p e l i n e   t e s t  
- 
+// Teste Conviso AST - alteração para disparar o scan
+
+// Teste Conviso AST - alteração para disparar o scan

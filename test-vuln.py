@@ -30,3 +30,8 @@ Testing automatic Conviso AST pipeline execution.
 ## Conviso Pipeline Test
 
 Testing automatic Conviso AST pipeline execution.
+
+
+// Teste Conviso AST - alteração para disparar o scan
+
+// Teste Conviso AST - alteração para disparar o scan
